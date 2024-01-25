@@ -1,0 +1,8 @@
+name: my_marketing_project
+profile: all
+config-version: 2
+version: "1.0.0"
+
+models:
+  my_marketing_project:
+    +materialized: table
